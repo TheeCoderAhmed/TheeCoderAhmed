@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" alt="Ahmed Haidar, Software Engineer" width="100%">
+<img src="header-v2.svg" alt="Ahmed Haidar, Software Engineer" width="100%">
 
 **Mobile, web and backend, built for real users and hardened against real attackers.**
 
