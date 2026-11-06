@@ -1,8 +1,8 @@
 <div align="center">
 
-# Ahmed Haidar
+<img src="header.svg" alt="Ahmed Haidar, Software Engineer" width="100%">
 
-**Software engineer. Mobile, web and backend, built for real users and hardened against real attackers.**
+**Mobile, web and backend, built for real users and hardened against real attackers.**
 
 Ankara, Türkiye &nbsp;·&nbsp; Founder of [HaideraLabs](https://haideralabs.site)
 
@@ -10,7 +10,7 @@ Ankara, Türkiye &nbsp;·&nbsp; Founder of [HaideraLabs](https://haideralabs.sit
 <a href="mailto:ahm3dbusinesss@gmail.com"><img src="https://img.shields.io/badge/Email-ahm3dbusinesss%40gmail.com-0B4F4A?style=for-the-badge" alt="Email"></a>
 <a href="https://diwanturkiye.app"><img src="https://img.shields.io/badge/Live%20app-Diwan%20T%C3%BCrkiye-0B4F4A?style=for-the-badge" alt="Diwan Türkiye"></a>
 
-🟢 **Open to engineering roles and select freelance.** Ankara, Istanbul, Qatar or remote.
+**Open to engineering roles and select freelance.** Ankara, Istanbul, Qatar or remote.
 
 </div>
 
@@ -44,21 +44,16 @@ More at **[ahmedhaidar.me/work](https://ahmedhaidar.me/work)**.
 
 ## Stack
 
-**Mobile** &nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-1B2A41?style=flat-square)
-
-**Web** &nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Backend** &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+| | |
+| :-- | :-- |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-0B4F4A?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0B4F4A?style=flat-square&logo=dart&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-0B4F4A?style=flat-square) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-0B4F4A?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-0B4F4A?style=flat-square&logo=react&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-0B4F4A?style=flat-square&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-0B4F4A?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0B4F4A?style=flat-square&logo=tailwindcss&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-0B4F4A?style=flat-square&logo=greensock&logoColor=white) |
+| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-0B4F4A?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-0B4F4A?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-0B4F4A?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-0B4F4A?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-0B4F4A?style=flat-square&logo=python&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-0B4F4A?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-0B4F4A?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B4F4A?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-0B4F4A?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-0B4F4A?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-0B4F4A?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-0B4F4A?style=flat-square&logo=firebase&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-0B4F4A?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-0B4F4A?style=flat-square&logo=prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle%20ORM-0B4F4A?style=flat-square&logo=drizzle&logoColor=white) |
+| **AI** | ![Claude API](https://img.shields.io/badge/Claude%20API-0B4F4A?style=flat-square&logo=anthropic&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0B4F4A?style=flat-square) |
+| **Architecture** | ![Multi-tenant](https://img.shields.io/badge/Multi--tenant-0B4F4A?style=flat-square) |
+| **Testing and delivery** | ![Docker](https://img.shields.io/badge/Docker-0B4F4A?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0B4F4A?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-0B4F4A?style=flat-square&logo=git&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-0B4F4A?style=flat-square&logo=cloudflare&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-0B4F4A?style=flat-square&logo=vitest&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-0B4F4A?style=flat-square&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-0B4F4A?style=flat-square) |
+| **Security** | ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0B4F4A?style=flat-square&logo=owasp&logoColor=white) ![Semgrep](https://img.shields.io/badge/Semgrep-0B4F4A?style=flat-square) ![Threat modeling](https://img.shields.io/badge/Threat%20modeling-0B4F4A?style=flat-square) |
 
 <br>
 
